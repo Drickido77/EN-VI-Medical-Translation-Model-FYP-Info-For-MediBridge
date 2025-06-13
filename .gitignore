@@ -1,0 +1,17 @@
+# Python/Flask junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+
+# Node junk
+node_modules/
+dist/
+build/
+
+# VSCode/project files
+.vscode/
+.idea/
